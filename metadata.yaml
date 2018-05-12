@@ -1,0 +1,28 @@
+_repo: The-Vegetable-GardenWhat-When-and-How-to-Plant_43531
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43531-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: Reprinted from "The Farmer's Cyclopedia".
+gutenberg_issued: '2013-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43531'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vegetable gardening'
+- !lcc 'SB'
+title: 'The Vegetable Garden: What, When, and How to Plant'
+url: http://www.gutenberg.org/ebooks/43531
