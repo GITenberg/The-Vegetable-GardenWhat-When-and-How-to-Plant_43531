@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: Reprinted from "The Farmer's Cyclopedia".
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43531#The-Vegetable-GardenWhat-When-and-How-to-Plant
 gutenberg_issued: '2013-08-22'
 gutenberg_type: Text
 identifiers:
